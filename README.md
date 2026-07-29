@@ -5,8 +5,8 @@ Integrantes: Matheus Gustavo e Muriel
 
 Tema: floricultura
 
-Objetivo: Um projeto de floricultura acessivel independente de seu status financeiro ou conhecimento
+Objetivo: Registrar a entrada e saída de produtos de uma floricultura, ajudando os funcionários e facilitando a gerência.
 
 Tecnologias utilizadas: C#, Banco de dados, etc.
 
-Descrição: Um app de encomendas de plantas onde qualquer um podera utilizar sem muitas dificuldades 
+Descrição: Um programa acessível e simples feito para floriculturas. Ele pode ser utilizado para destinguir os tipos de plantas no estoque, verificar encomendas, registrar a entrada e saída dos produtos, etc.
