@@ -1,4 +1,6 @@
-# Levantamento de Requisitos 
+--->Levantamento de Requisitos
+
+PUBLICO USUÁRIO: Funcionários e gerência de uma floricultura.
 
 REQUISITOS FUNCIONAIS:
 • Adicionar categorias;
@@ -6,3 +8,22 @@ REQUISITOS FUNCIONAIS:
 • Cadastrar produtos;
 • Excluir produtos;
 • Adicionar/remover produto do estoque;
+• Adicionar/remover produtos de uma categoria;
+• Editar detalhes do produto;
+• Adicionar pedidos;
+• Excluir pedidos;
+• Marcar pedido como feito;
+• Cadastrar funcionários;
+• Remover funcionário;
+• Editar informações de funcionários;
+• Designar funcionários para cuidar das plantas;
+• Designar funcionários para preparar pedidos;
+• Designar um/mais funcionários como "administrador";
+• Apenas o administrador pode adicionar/remover categorias, cadastrar/excluir produtos, editar detalhes de /produtos/funcionários e remover funcionários.
+
+REQUISITOS NÃO FUNCIONAIS:
+• Tempo de resposta rápido (2 a 4 segundos);
+• Interface simples e acolhedora;
+• Manter um padrão visual;
+• Código organizado e fácil de ser atualizado;
+• Funcionar em sistemas operacionais atualizados.
