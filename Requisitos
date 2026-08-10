@@ -23,7 +23,7 @@ REQUISITOS FUNCIONAIS:
 
 REQUISITOS NÃO FUNCIONAIS:
 • Tempo de resposta rápido (2 a 4 segundos);
-• Interface simples e acolhedora;
-• Manter um padrão visual;
-• Código organizado e fácil de ser atualizado;
-• Funcionar em sistemas operacionais atualizados.
+• Suporte para pelo menos 10 usuários simultâneos sem apresentar degradação significativa de desempenho;
+• Manter um padrão visual em todas as telas, mantendo as mesmas cores, formatos, fontes, logo e outros componentes de identidade visual;
+• Possuir um código organizado e dividido para ser atualizado com facilidade pelos programadores;
+• Funcionar em sistemas operacionais recentes e atualizados (Windows 10, etc).
